@@ -9,3 +9,7 @@ This project uses a **MobileNet** architecture for classifying grayscale images.
 ```bash
 python3 load_model.py
 ```
+
+## JS Model
+
+Graph model. Converted to directory [tfjs](./tfjs). Layered model conversion is not supported.
